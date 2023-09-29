@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 bonjour, ceci est la modif d ines
-=======
-Modification Oualid & Jules
->>>>>>> 7a8588ef0a328ec4568e15948089a6469d18dd26
